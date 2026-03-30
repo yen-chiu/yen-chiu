@@ -62,17 +62,11 @@
 
 <tr><td>
 
-### 🤺 About Me
+## 🤺 About Me
 <p>&emsp;&emsp;嗨，你好，我是 Wendell，我是一名业余爱好者。热爱编程、摄影、读书、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
 
 ![dino](https://raw.githubusercontent.com/yen-chiu/ProjectAssets/master/images/GIF/dino.gif 'dino')
-
-</tr></td>
-
-<tr><td>
-  
-## 🔧 技术 & 工具
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Rstudio_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
@@ -96,6 +90,51 @@
 <!-- BLOG-POST-LIST:END -->
 
 </tr></td>
+
+<tr><td>
+
+## 📊 工作时间
+
+<!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                455 commits         █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
+🌆 Daytime                637 commits         ███████░░░░░░░░░░░░░░░░░░   28.10 % 
+🌃 Evening                569 commits         ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
+🌙 Night                  606 commits         ███████░░░░░░░░░░░░░░░░░░   26.73 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   360 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+Tuesday                  327 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+Wednesday                304 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Thursday                 302 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+Friday                   379 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+Saturday                 264 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+Sunday                   331 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+```
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 30/03/2026 01:11:46 UTC
+<!--END_SECTION:waka-->
+
+</td></tr>
 
 <tr><td>
 
