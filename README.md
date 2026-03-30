@@ -1,12 +1,12 @@
 <!-- 更多关于制作GitHub配置文件README的信息、技巧和窍门可以在我的文章中找到：https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-[![Header](https://raw.githubusercontent.com/XiaoWendell/XiaoWendell/master/images/readme_header.png 'Header')](https://wendell.website/)
+[![Header](https://raw.githubusercontent.com/yen-chiu/yen-chiu/master/images/readme_header.png 'Header')](https://wendell.website/)
 
-# 大家好! <img src="https://raw.githubusercontent.com/XiaoWendell/XiaoWendell/master/images/wave.gif" width="30px" height="30px" /><img align="right" src="https://profile-counter.glitch.me/XiaoWendell/count.svg" alt="XiaoWendell" />
+# 大家好! <img src="https://raw.githubusercontent.com/yen-chiu/yen-chiu/master/images/wave.gif" width="30px" height="30px" /><img align="right" src="https://profile-counter.glitch.me/yen-chiu/count.svg" alt="yen-chiu" />
 
 我的名字是 Wendell，我是一名业余爱好者。我来自 CN，住在 0731。您可以在 [![Twitter][3.1]][1] 上找到我。
 
-![dino](https://raw.githubusercontent.com/XiaoWendell/ProjectAssets/master/images/GIF/dino.gif 'dino')
+![dino](https://raw.githubusercontent.com/yen-chiu/ProjectAssets/master/images/GIF/dino.gif 'dino')
 
 ## 🔧 技术 & 工具
 
@@ -29,20 +29,20 @@
 
 ## &#x1f4c8; GitHub 统计信息
 
-<a href="https://github.com/XiaoWendell/XiaoWendell">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoWendell&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+<a href="https://github.com/yen-chiu/yen-chiu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yen-chiu&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
-<a href="https://github.com/XiaoWendell/XiaoWendell">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=XiaoWendell&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+<a href="https://github.com/yen-chiu/yen-chiu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yen-chiu&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
-<a href="https://github.com/XiaoWendell/XiaoWendell.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XiaoWendell&repo=XiaoWendell.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/yen-chiu/yen-chiu.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yen-chiu&repo=yen-chiu.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/XiaoWendell/WendellManual">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XiaoWendell&repo=WendellManual&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/yen-chiu/WendellManual">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yen-chiu&repo=WendellManual&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <!-- 社交媒体图标链接 -->
@@ -51,7 +51,7 @@
 
 [1.1]: http://i.imgur.com/tXSoThF.png '带填充的 Twitter 图标'
 [2.1]: http://i.imgur.com/0o48UoR.png '带填充的 GitHub 图标'
-[3.1]: https://raw.githubusercontent.com/XiaoWendell/ProjectAssets/master/images/SVG/x_16.svg 'x'
+[3.1]: https://raw.githubusercontent.com/yen-chiu/ProjectAssets/master/images/SVG/x_16.svg 'x'
 
 <!-- 不带填充的图标 -->
 
@@ -61,7 +61,7 @@
 <!-- 链接到您的社交媒体账户 -->
 
 [1]: https://x.com/Xiao_Bard
-[2]: https://github.com/XiaoWendell
+[2]: https://github.com/yen-chiu
 
 <!-- 资源 -->
 <!-- 图标：https://simpleicons.org/ -->
