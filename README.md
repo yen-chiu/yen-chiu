@@ -58,10 +58,20 @@
 
 # 大家好! <img src="https://raw.githubusercontent.com/yen-chiu/yen-chiu/master/images/wave.gif" width="30px" height="30px" />
 
-我的名字是 Wendell，我是一名业余爱好者。我来自 CN，住在 0731。您可以在 [![Twitter][3.1]][1] 上找到我。
+<table>
+
+<tr><td>
+
+### 🤺 About Me
+<p>&emsp;&emsp;嗨，你好，我是 Wendell，我是一名业余爱好者。热爱编程、摄影、读书、旅行。</p>
+<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
 
 ![dino](https://raw.githubusercontent.com/yen-chiu/ProjectAssets/master/images/GIF/dino.gif 'dino')
 
+</tr></td>
+
+<tr><td>
+  
 ## 🔧 技术 & 工具
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -72,6 +82,10 @@
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
+</tr></td>
+
+<tr><td>
+  
 ## &#x270d; 博客和写作
 
 除了编码，我还维护一个博客，您可以在我的网站[wendell.website](https://wendell.website/)上找到我的文章.
@@ -80,6 +94,10 @@
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
+
+</tr></td>
+
+<tr><td>
 
 ## &#x1f4c8; GitHub 统计信息
 
@@ -98,6 +116,10 @@
 <a href="https://github.com/yen-chiu/WendellManual">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yen-chiu&repo=WendellManual&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+
+</tr></td>
+
+</table>
 
 <!-- 社交媒体图标链接 -->
 
