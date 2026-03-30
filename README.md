@@ -1,5 +1,3 @@
-<!-- 更多关于制作GitHub配置文件README的信息、技巧和窍门可以在我的文章中找到：https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
-
 [![Header](https://raw.githubusercontent.com/yen-chiu/yen-chiu/master/images/readme_header.png 'Header')](https://wendell.website/)
 
 <div align="center">
@@ -55,6 +53,8 @@
 </table> -->
 </div>
 </div>
+
+<!----------------------------------------------------------------------------------------------------------->
 
 # 大家好! <img src="https://raw.githubusercontent.com/yen-chiu/yen-chiu/master/images/wave.gif" width="30px" height="30px" />
 
@@ -159,6 +159,24 @@ No Activity Tracked This Week
 </tr></td>
 
 </table>
+
+<!----------------------------------------------------------------------------------------------------------->
+
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+
+<div align="center" >
+
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" width="250" height="250" />
+
+<!-- app -->
+<img src="https://skillicons.dev/icons?i=ps,ai,pr,discord,twitter,instagram,idea,git" /><br>
+
+<!-- svg -->
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /> 
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+<!----------------------------------------------------------------------------------------------------------->
 
 <!-- 社交媒体图标链接 -->
 
