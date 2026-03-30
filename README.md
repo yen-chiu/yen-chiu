@@ -2,7 +2,7 @@
 
 [![Header](https://raw.githubusercontent.com/yen-chiu/yen-chiu/master/images/readme_header.png 'Header')](https://wendell.website/)
 
-# 大家好! <img src="https://raw.githubusercontent.com/yen-chiu/yen-chiu/master/images/wave.gif" width="30px" height="30px" /><img align="right" src="https://profile-counter.glitch.me/yen-chiu/count.svg" alt="yen-chiu" />
+# 大家好! <img src="https://raw.githubusercontent.com/yen-chiu/yen-chiu/master/images/wave.gif" width="30px" height="30px" />
 
 我的名字是 Wendell，我是一名业余爱好者。我来自 CN，住在 0731。您可以在 [![Twitter][3.1]][1] 上找到我。
 
