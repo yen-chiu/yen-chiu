@@ -1,8 +1,8 @@
-[![Header](https://raw.githubusercontent.com/yen-chiu/yen-chiu/master/images/readme_header.png 'Header')](https://wendell.website/)
+[![Header](https://raw.githubusercontent.com/yen-chiu/yen-chiu/master/assets/images/readme_header.png 'Header')](https://wendell.website/)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Wendell祝您今天愉快!&center=true&size=27)](https://git.io/typing-svg)
+[![Typing SVG](<https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Wendell祝您今天愉快!&center=true&size=27>)](https://git.io/typing-svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
@@ -56,17 +56,18 @@
 
 <!----------------------------------------------------------------------------------------------------------->
 
-# 大家好! <img src="https://raw.githubusercontent.com/yen-chiu/yen-chiu/master/images/wave.gif" width="30px" height="30px" />
+# 大家好! <img src="https://raw.githubusercontent.com/yen-chiu/yen-chiu/master/assets/images/wave.gif" width="30px" height="30px" />
 
 <table>
 
 <tr><td>
 
 ## 🤺 About Me
+
 <p>&emsp;&emsp;嗨，你好，我是 Wendell，我是一名业余爱好者。热爱编程、摄影、读书、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
 
-![dino](https://raw.githubusercontent.com/yen-chiu/ProjectAssets/master/images/GIF/dino.gif 'dino')
+![dino](https://raw.githubusercontent.com/yen-chiu/ProjectAssets/master/assets//images/GIF/dino.gif 'dino')
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Rstudio_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
@@ -96,42 +97,45 @@
 ## 📊 工作时间
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
+
+**I'm a Night 🦉**
 
 ```text
-🌞 Morning                455 commits         █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
-🌆 Daytime                637 commits         ███████░░░░░░░░░░░░░░░░░░   28.10 % 
-🌃 Evening                569 commits         ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
-🌙 Night                  606 commits         ███████░░░░░░░░░░░░░░░░░░   26.73 % 
+🌞 Morning                455 commits         █████░░░░░░░░░░░░░░░░░░░░   20.07 %
+🌆 Daytime                637 commits         ███████░░░░░░░░░░░░░░░░░░   28.10 %
+🌃 Evening                569 commits         ██████░░░░░░░░░░░░░░░░░░░   25.10 %
+🌙 Night                  606 commits         ███████░░░░░░░░░░░░░░░░░░   26.73 %
 ```
-📅 **I'm Most Productive on Friday** 
+
+📅 **I'm Most Productive on Friday**
 
 ```text
-Monday                   360 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-Tuesday                  327 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-Wednesday                304 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-Thursday                 302 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Friday                   379 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
-Saturday                 264 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-Sunday                   331 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Monday                   360 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.88 %
+Tuesday                  327 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 %
+Wednesday                304 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 %
+Thursday                 302 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 %
+Friday                   379 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.72 %
+Saturday                 264 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
+Sunday                   331 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 %
 ```
-📊 **This Week I Spent My Time On** 
+
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
 
-💬 Programming Languages: 
+💬 Programming Languages:
 No Activity Tracked This Week
 
-🔥 Editors: 
+🔥 Editors:
 No Activity Tracked This Week
 
-💻 Operating System: 
+💻 Operating System:
 No Activity Tracked This Week
 ```
 
+Last Updated on 30/03/2026 01:11:46 UTC
 
- Last Updated on 30/03/2026 01:11:46 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
@@ -191,6 +195,7 @@ No Activity Tracked This Week
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" width="250" height="250" />
 
 <!-- app -->
+
 <img src="https://skillicons.dev/icons?i=ps,ai,pr,discord,twitter,instagram,idea,git" /><br>
 
 <!-- svg -->
@@ -198,8 +203,6 @@ No Activity Tracked This Week
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /> 
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-
-
 
 <!----------------------------------------------------------------------------------------------------------->
 
