@@ -1,100 +1,107 @@
-[![Header](https://raw.githubusercontent.com/yen-chiu/yen-chiu/master/assets/images/readme_header.png 'Header')](https://wendell.website/)
+<div align="center">
+
+<!-- 头图：自绘动画 SVG（极光渐变 + 轨道粒子 + 掠过高光），跟随系统「减少动态效果」自动降级 -->
+<img src="https://raw.githubusercontent.com/yen-chiu/yen-chiu/master/assets/images/hero.svg" alt="Wendell — 读书，买花，长大。" width="100%" />
+
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=A78BFA&center=true&vCenter=true&width=560&height=44&lines=console.log(%22Hello%2C+World%22);Wendell+%E7%A5%9D%E6%82%A8%E4%BB%8A%E5%A4%A9%E6%84%89%E5%BF%AB!;%E8%AF%BB%E4%B9%A6%EF%BC%8C%E4%B9%B0%E8%8A%B1%EF%BC%8C%E9%95%BF%E5%A4%A7%E3%80%82" alt="Typing SVG" />
+</a>
+
+<p>
+  <a href="https://yenchiu.com"><img src="https://img.shields.io/badge/Blog-yenchiu.com-6366f1?style=for-the-badge&logo=jekyll&logoColor=white" alt="Blog" /></a>
+  <a href="https://x.com/Xiao_Bard"><img src="https://img.shields.io/badge/X-@Xiao__Bard-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:wendell.wenwu.he@gmail.com"><img src="https://img.shields.io/badge/Email-wendell.wenwu.he@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://wakatime.com/@yen-chiu"><img src="https://img.shields.io/badge/WakaTime-yen--chiu-2bbc8a?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime" /></a>
+  <img src="https://komarev.com/ghpvc/?username=yen-chiu&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile views" />
+</p>
+
+<img src="https://raw.githubusercontent.com/yen-chiu/yen-chiu/master/assets/images/divider.svg" alt="" width="100%" />
+
+</div>
+
+<table>
+  <tr>
+    <td width="58%" valign="top">
+
+### 🤺 关于我
+
+嗨，你好，我是 **Wendell**，一名业余编程爱好者，热爱编程、摄影、读书与旅行。
+
+平时主要用 Python / R / MATLAB 做数据分析与建模仿真，也折腾 Linux、博客和各类自动化小工具。相信「记录本身就是一种整理」，于是有了这个长期维护的[个人博客](https://yenchiu.com)。
+
+![dino](https://raw.githubusercontent.com/yen-chiu/ProjectAssets/master/images/GIF/dino.gif 'dino')
+
+</td>
+    <td width="42%" valign="top">
+
+### 🧰 常用工具
+
+<img src="https://skillicons.dev/icons?i=py,r,matlab,linux,git,latex,md,bash,vscode,mysql" alt="Skills" />
+
+<br />
+
+![](https://img.shields.io/badge/OS-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![](https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![](https://img.shields.io/badge/Code-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Tools-Jekyll-CC0000?style=flat-square&logo=jekyll&logoColor=white)
+![](https://img.shields.io/badge/Cloud-DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+![](https://img.shields.io/badge/DB-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</td>
+  </tr>
+</table>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/yen-chiu/yen-chiu/master/assets/images/divider.svg" alt="" width="100%" />
+</div>
+
+## 📊 GitHub 数据
 
 <div align="center">
 
-[![Typing SVG](<https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Wendell祝您今天愉快!&center=true&size=27>)](https://git.io/typing-svg)
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/yen-chiu/yen-chiu/assets/images/coding.gif" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/yen-chiu/yen-chiu/assets/images/developer.svg" height="225px" />
-  <img src="https://cdn.jsdelivr.net/gh/yen-chiu/yen-chiu/assets/images/coding.gif" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yen-chiu&show_icons=true&count_private=true&hide_rank=false&line_height=24&title_color=a78bfa&icon_color=818cf8&text_color=c9cacc&bg_color=0d1030&border_color=2a2b45" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=yen-chiu&show_icons=true&count_private=true&hide_rank=false&line_height=24&title_color=6366f1&icon_color=6366f1&text_color=3f4254&bg_color=ffffff&border_color=e5e7eb" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yen-chiu&show_icons=true&count_private=true&line_height=24&title_color=6366f1&icon_color=6366f1&text_color=3f4254&bg_color=ffffff&border_color=e5e7eb" alt="GitHub Stats" />
 </picture>
 
-<div>&nbsp;</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yen-chiu&layout=compact&hide=html,tex,javascript&langs_count=6&title_color=a78bfa&text_color=c9cacc&bg_color=0d1030&border_color=2a2b45" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yen-chiu&layout=compact&hide=html,tex,javascript&langs_count=6&title_color=6366f1&text_color=3f4254&bg_color=ffffff&border_color=e5e7eb" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yen-chiu&layout=compact&hide=html,tex,javascript&langs_count=6" alt="Top Languages" />
+</picture>
 
-<div>
-  <img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
-  <a href="https://www.youtube.com"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-  <a href=""><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
-  <a href=""><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
-  <a href=""><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-  
-  <!-- visitor -->
-  <img src="https://komarev.com/ghpvc/?username=yen-chiu&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
-  
-  <!-- wakatime -->
-  <a href="https://wakatime.com/@yen-chiu"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
-</div>
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=yen-chiu&theme=midnight-purple&hide_border=true&background=0D1030&ring=A855F7&fire=EC4899" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=yen-chiu&theme=default&hide_border=true&ring=6366F1&fire=EC4899" />
+  <img width="62%" src="https://github-readme-streak-stats.herokuapp.com/?user=yen-chiu&theme=default&hide_border=true" alt="Streak Stats" />
+</picture>
+
+<br /><br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/yen-chiu/yen-chiu/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/yen-chiu/yen-chiu/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/yen-chiu/yen-chiu/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/yen-chiu/yen-chiu/profile-snake-contrib/github-contribution-grid-snake-dark.svg" alt="github-snake" width="100%" />
 </picture>
 
-![](./sponsors.png)
-
-<!-- <div align="center">
-<a href="https://www.buymeacoffee.com/guoqisun" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217" />
-</a>-->
-
-<!-- <table style="margin-top: 20px;">
-  <tbody>
-    <tr>
-      <td align="center">
-        <img src="https://files.guoqi.dev/wxpay.png" width="250px"  alt="wxpay" style="border-radius:10px;" />
-      </td>
-      <td align="center">
-        <img src="https://files.guoqi.dev/alipay.jpg" width="250px"  alt="alipay" style="border-radius:10px;" />
-      </td>
-    </tr>
-  </tbody>
-</table> -->
-</div>
 </div>
 
-<!----------------------------------------------------------------------------------------------------------->
+<div align="center">
+<img src="https://raw.githubusercontent.com/yen-chiu/yen-chiu/master/assets/images/divider.svg" alt="" width="100%" />
+</div>
 
-# 大家好! <img src="https://raw.githubusercontent.com/yen-chiu/yen-chiu/master/assets/images/wave.gif" width="30px" height="30px" />
+## ✍️ 最近在写
 
-<table>
+除了代码，我还维护一个长期更新的博客，记录技术笔记、读书与生活：
+👉 **[yenchiu.com](https://yenchiu.com)**
 
-<tr><td>
-
-## 🤺 About Me
-
-<p>&emsp;&emsp;嗨，你好，我是 Wendell，我是一名业余爱好者。热爱编程、摄影、读书、旅行。</p>
-<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
-
-![dino](https://raw.githubusercontent.com/yen-chiu/ProjectAssets/master/images/GIF/dino.gif 'dino')
-
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Rstudio_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Matlab-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
-
-</tr></td>
-
-<tr><td>
-  
-## &#x270d; 博客和写作
-
-除了编码，我还维护一个博客，您可以在我的网站[wendell.website](https://wendell.website/)上找到我的文章.
-
-<!-- 以下是我最近的一些文章示例： -->
 <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END -->
 
-</tr></td>
-
-<tr><td>
-
-## 📊 工作时间
+## ⏱️ 编码时间
 
 <!--START_SECTION:waka-->
 
@@ -138,96 +145,16 @@ Last Updated on 30/03/2026 01:11:46 UTC
 
 <!--END_SECTION:waka-->
 
-</td></tr>
-
-<tr><td>
-
-## &#x1f4c8; GitHub 统计信息
-
-<a href="https://github.com/yen-chiu/yen-chiu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yen-chiu&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-
-<a href="https://github.com/yen-chiu/yen-chiu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yen-chiu&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
-
-<a href="https://github.com/yen-chiu/yen-chiu.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yen-chiu&repo=yen-chiu.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/yen-chiu/WendellManual">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yen-chiu&repo=WendellManual&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-</tr></td>
-
-</table>
-<!----------------------------------------------------------------------------------------------------------->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/yen-chiu/yen-chiu/assets/images/hr.gif" />
-
 <div align="center">
+<img src="https://raw.githubusercontent.com/yen-chiu/yen-chiu/master/assets/images/divider.svg" alt="" width="100%" />
 
-<img src="https://cdn.jsdelivr.net/gh/yen-chiu/yen-chiu/assets/images/man_run.png" width="250" height="250" />
-
-<div>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%ffffff" />
-    <img alt="Jokes Card" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
-  </picture>
+<sub>读书，买花，长大。 · 用 <a href="https://jekyllrb.com">Jekyll</a> + <a href="https://github.com/cotes2020/jekyll-theme-chirpy">Chirpy</a> 搭建</sub>
 </div>
-
-<img align="left" width="150" src="https://cdn.jsdelivr.net/gh/yen-chiu/yen-chiu/assets/images/left.png" />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=yen-chiu&theme=dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=yen-chiu&theme=light&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yen-chiu&theme=dark&hide_border=true" />
-</picture>
-<img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/yen-chiu/yen-chiu/assets/images/right.png" />
-
-<!----------------------------------------------------------------------------------------------------------->
-
-<img width="200%" src="https://cdn.jsdelivr.net/gh/yen-chiu/yen-chiu/assets/images/hr.gif" />
-
-<div align="center" >
-
-<img src="https://cdn.jsdelivr.net/gh/yen-chiu/yen-chiu/assets/images/man.png" width="250" height="250" />
-
-<!-- app -->
-
-<img src="https://skillicons.dev/icons?i=ps,ai,pr,discord,twitter,instagram,idea,git" /><br>
-
-<!-- svg -->
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /> 
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-
-<!----------------------------------------------------------------------------------------------------------->
-
-<!-- 社交媒体图标链接 -->
-
-<!-- 带有填充的图标 -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png '带填充的 Twitter 图标'
-[2.1]: http://i.imgur.com/0o48UoR.png '带填充的 GitHub 图标'
-[3.1]: https://raw.githubusercontent.com/yen-chiu/ProjectAssets/master/images/SVG/x_16.svg 'x'
-
-<!-- 不带填充的图标 -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png '不带填充的 Twitter 图标'
-[2.2]: http://i.imgur.com/9I6NRUm.png '不带填充的 GitHub 图标'
-
-<!-- 链接到您的社交媒体账户 -->
-
-[1]: https://x.com/Xiao_Bard
-[2]: https://github.com/yen-chiu
 
 <!-- 资源 -->
 <!-- 图标：https://simpleicons.org/ -->
-<!-- GitHub 统计信息：https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emoji：https://emojipedia.org/emoji/ -->
-<!-- HTML Emoji：https://www.fileformat.info/index.htm -->
-<!-- Shields：https://shields.io/ -->
-<!-- 优秀的 GitHub 个人资料 README：https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+<!-- 徽章：https://shields.io/ -->
+<!-- 统计：https://github.com/anuraghazra/github-readme-stats -->
+<!-- 打字动画：https://github.com/DenverCoder1/readme-typing-svg -->
+<!-- 贪吃蛇：https://github.com/Platane/snk -->
+<!-- Emoji：https://emojipedia.org/ -->

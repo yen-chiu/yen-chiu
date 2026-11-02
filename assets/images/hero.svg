@@ -1,0 +1,138 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" fill="none" role="img" aria-label="Wendell — 读书，买花，长大。">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#080b18"/>
+      <stop offset="0.45" stop-color="#0d1030"/>
+      <stop offset="1" stop-color="#1a0f36"/>
+    </linearGradient>
+
+    <linearGradient id="nameGrad" x1="90" y1="120" x2="560" y2="180" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.55" stop-color="#d8d4ff"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6366f1"/>
+      <stop offset="0.5" stop-color="#a855f7"/>
+      <stop offset="1" stop-color="#ec4899"/>
+    </linearGradient>
+
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+
+    <radialGradient id="blobA" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#7c3aed" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blobB" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#2563eb" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#2563eb" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blobC" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#db2777" stop-opacity="0.7"/>
+      <stop offset="1" stop-color="#db2777" stop-opacity="0"/>
+    </radialGradient>
+
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="1.4" cy="1.4" r="1.4" fill="#ffffff" fill-opacity="0.07"/>
+    </pattern>
+
+    <clipPath id="frame">
+      <rect x="0" y="0" width="1200" height="320" rx="26"/>
+    </clipPath>
+
+    <style>
+      .drift-a { animation: driftA 16s ease-in-out infinite alternate; }
+      .drift-b { animation: driftB 20s ease-in-out infinite alternate; }
+      .drift-c { animation: driftC 24s ease-in-out infinite alternate; }
+      .shine   { animation: shine 7s ease-in-out infinite; }
+      .orbit   { animation: spin 22s linear infinite; transform-origin: 1010px 160px; }
+      .pulse   { animation: pulse 3.6s ease-in-out infinite; }
+
+      @keyframes driftA {
+        from { transform: translate3d(0, 0, 0) scale(1); }
+        to   { transform: translate3d(90px, 40px, 0) scale(1.12); }
+      }
+      @keyframes driftB {
+        from { transform: translate3d(0, 20px, 0) scale(1.05); }
+        to   { transform: translate3d(-70px, -30px, 0) scale(0.95); }
+      }
+      @keyframes driftC {
+        from { transform: translate3d(20px, 0, 0) scale(0.95); }
+        to   { transform: translate3d(-40px, 30px, 0) scale(1.15); }
+      }
+      @keyframes shine {
+        0%   { transform: translateX(-620px) skewX(-18deg); opacity: 0; }
+        12%  { opacity: 0.9; }
+        45%  { transform: translateX(900px) skewX(-18deg); opacity: 0; }
+        100% { transform: translateX(900px) skewX(-18deg); opacity: 0; }
+      }
+      @keyframes spin { to { transform: rotate(360deg); } }
+      @keyframes pulse {
+        0%, 100% { opacity: 0.35; r: 4; }
+        50%      { opacity: 1; r: 5.2; }
+      }
+
+      @media (prefers-reduced-motion: reduce) {
+        .drift-a, .drift-b, .drift-c, .shine, .orbit, .pulse { animation: none; }
+      }
+
+      .name {
+        font-family: 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', system-ui, sans-serif;
+        font-size: 74px;
+        font-weight: 700;
+        letter-spacing: 4px;
+      }
+      .cn {
+        font-family: 'PingFang SC', 'Microsoft YaHei', 'Segoe UI', system-ui, sans-serif;
+        font-size: 26px;
+        letter-spacing: 6px;
+      }
+      .mono {
+        font-family: 'Cascadia Code', Consolas, 'Courier New', monospace;
+        font-size: 15px;
+        letter-spacing: 3px;
+      }
+    </style>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="320" fill="url(#bg)"/>
+
+    <ellipse class="drift-a" cx="220" cy="40" rx="360" ry="240" fill="url(#blobA)" opacity="0.72"/>
+    <ellipse class="drift-b" cx="980" cy="280" rx="380" ry="230" fill="url(#blobB)" opacity="0.5"/>
+    <ellipse class="drift-c" cx="720" cy="40" rx="300" ry="190" fill="url(#blobC)" opacity="0.55"/>
+
+    <rect width="1200" height="320" fill="url(#dots)"/>`n    <rect width="1200" height="320" fill="url(#blobB)" opacity="0.18"/>
+
+    <!-- 左侧文字 -->
+    <g>
+      <rect x="90" y="96" width="56" height="4" rx="2" fill="url(#accent)"/>
+      <text class="name" x="90" y="176" fill="url(#nameGrad)">WENDELL</text>
+      <text class="cn" x="92" y="222" fill="#c7c3f5" fill-opacity="0.86">读书，买花，长大。</text>
+      <text class="mono" x="92" y="262" fill="#8b8fb8">YENCHIU.COM · YEN-CHIU</text>
+    </g>
+
+    <!-- 右侧轨道 -->
+    <g>
+      <circle cx="1010" cy="160" r="92" stroke="#ffffff" stroke-opacity="0.12" stroke-width="1"/>
+      <circle cx="1010" cy="160" r="62" stroke="#ffffff" stroke-opacity="0.08" stroke-width="1"/>
+      <g class="orbit">
+        <circle cx="1010" cy="68" r="4.5" fill="#a855f7"/>
+        <circle cx="1102" cy="160" r="3.2" fill="#6366f1" fill-opacity="0.9"/>
+        <circle cx="1010" cy="252" r="3.6" fill="#ec4899" fill-opacity="0.85"/>
+      </g>
+      <circle class="pulse" cx="1010" cy="160" r="4" fill="#ffffff" fill-opacity="0.75"/>
+    </g>
+
+    <!-- 掠过的高光 -->
+    <rect class="shine" x="-220" y="-80" width="180" height="480" fill="url(#shine)"/>
+
+    <!-- 描边 -->
+    <rect x="0.5" y="0.5" width="1199" height="319" rx="25.5" stroke="#ffffff" stroke-opacity="0.08"/>
+  </g>
+</svg>

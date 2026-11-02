@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="12" viewBox="0 0 1200 12" fill="none" role="presentation">
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6366f1" stop-opacity="0"/>
+      <stop offset="0.25" stop-color="#6366f1" stop-opacity="0.7"/>
+      <stop offset="0.5" stop-color="#a855f7" stop-opacity="0.9"/>
+      <stop offset="0.75" stop-color="#ec4899" stop-opacity="0.7"/>
+      <stop offset="1" stop-color="#ec4899" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="dot" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      .beam { animation: slide 9s ease-in-out infinite; }
+      @keyframes slide {
+        0%   { transform: translateX(-260px); opacity: 0; }
+        10%  { opacity: 1; }
+        60%  { transform: translateX(960px); opacity: 1; }
+        70%, 100% { transform: translateX(960px); opacity: 0; }
+      }
+      @media (prefers-reduced-motion: reduce) { .beam { animation: none; opacity: 0.5; } }
+    </style>
+  </defs>
+
+  <rect x="0" y="5" width="1200" height="2" rx="1" fill="url(#line)"/>
+  <ellipse class="beam" cx="130" cy="6" rx="130" ry="4" fill="url(#dot)" opacity="0.65"/>
+</svg>
