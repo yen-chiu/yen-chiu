@@ -9,7 +9,7 @@
 <p>
   <a href="https://yenchiu.com"><img src="https://img.shields.io/badge/Blog-yenchiu.com-6366f1?style=for-the-badge&logo=jekyll&logoColor=white" alt="Blog" /></a>
   <a href="https://x.com/Xiao_Bard"><img src="https://img.shields.io/badge/X-@Xiao__Bard-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="mailto:wendell.wenwu.he@gmail.com"><img src="https://img.shields.io/badge/Email-wendell.wenwu.he@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:yenchiu.he@gmail.com"><img src="https://img.shields.io/badge/Email-yenchiu.he@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://wakatime.com/@yen-chiu"><img src="https://img.shields.io/badge/WakaTime-yen--chiu-2bbc8a?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime" /></a>
   <img src="https://komarev.com/ghpvc/?username=yen-chiu&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile views" />
 </p>
