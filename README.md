@@ -1,42 +1,78 @@
 <div align="center">
 
-<img src="assets/images/hero.svg" alt="Wendell — 读书，买花，长大。" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/images/hero-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/images/hero-light.svg" />
+  <img src="assets/images/hero-light.svg" alt="Wendell · 读书，买花，长大。" width="100%" />
+</picture>
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=A78BFA&center=true&vCenter=true&width=560&height=44&lines=console.log(%22Hello%2C+World%22);Wendell+%E7%A5%9D%E6%82%A8%E4%BB%8A%E5%A4%A9%E6%84%89%E5%BF%AB!;%E8%AF%BB%E4%B9%A6%EF%BC%8C%E4%B9%B0%E8%8A%B1%EF%BC%8C%E9%95%BF%E5%A4%A7%E3%80%82" alt="Typing SVG" />
-</a>
+<br />
 
-<p>
-  <a href="https://yenchiu.com"><img src="https://img.shields.io/badge/Blog-yenchiu.com-6366f1?style=for-the-badge&logo=jekyll&logoColor=white" alt="Blog" /></a>
-  <a href="https://x.com/Xiao_Bard"><img src="https://img.shields.io/badge/X-@Xiao__Bard-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="mailto:yenchiu.he@gmail.com"><img src="https://img.shields.io/badge/Email-yenchiu.he@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://wakatime.com/@yen-chiu"><img src="https://img.shields.io/badge/WakaTime-yen--chiu-2bbc8a?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime" /></a>
-  <img src="https://komarev.com/ghpvc/?username=yen-chiu&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile views" />
-</p>
-
-<img src="assets/images/divider.svg" alt="" width="100%" />
+[博客](https://yenchiu.com) &nbsp;·&nbsp; [X](https://x.com/Xiao_Bard) &nbsp;·&nbsp; [邮件](mailto:yenchiu.he@gmail.com) &nbsp;·&nbsp; [WakaTime](https://wakatime.com/@yen-chiu)
 
 </div>
 
-## 👋 关于我
+## 关于
 
-嗨，我是 **Wendell**，一名业余编程爱好者，热爱编程、摄影、读书与旅行。
+嗨，我是 **Wendell**。业余时间写点代码，也爱摄影、读书与旅行。
 
 平时主要用 **Python / R / MATLAB** 做数据分析与建模仿真，也折腾 **Linux、博客和自动化小工具**。相信「记录本身就是一种整理」，于是有了这个长期维护的[个人博客](https://yenchiu.com)。
 
-- 🔭 最近在做：给博客做减法，维护写作台和一些自动化小工具
-- 🧰 常用：Python / R / MATLAB / Linux / Jekyll
-- 📍 现居：长沙
-- ✍️ 写作：[yenchiu.com](https://yenchiu.com)
+## 现在
+
+- 给博客做减法，维护写作台和几件自动化小工具
+- 把两个老游戏搬进自己的小站——[异次元通讯](https://yenchiu.com/chat/play.html?a=miko) 与 [生命线](https://yenchiu.com/chat/play.html?a=lifeline)，收进同一个手机抽屉
+- 现居长沙
+
+## 做的东西
+
+**[yenchiu.com](https://yenchiu.com)** — 个人博客：技术笔记、读书与生活。
+<sub>Jekyll · Chirpy · GitHub Pages</sub>
+
+**[Chat](https://github.com/yen-chiu/Chat)** — 「与念真聊天中」，一个可以聊天的个人小站，也放着上面那两个网页版游戏。
+<sub>HTML · CSS · JavaScript</sub>
+
+**[WendellManual](https://github.com/yen-chiu/WendellManual)** — 博客的使用说明与文档站。
+<sub>Jekyll · Just the Docs</sub>
+
+**[math-model](https://github.com/yen-chiu/math-model)** — Python 数学实验与建模的课件、程序与习题。
+<sub>Python · Jupyter</sub>
+
+## 写作
+
+<!-- BLOG-POST-LIST:START -->
+- [把《异次元通讯·次元复苏》搬进浏览器](https://yenchiu.com/posts/miko-web/)
+- [给 AI 装一双逆向之眼：REA 接入 DeepSeek Harness](https://yenchiu.com/posts/dsh-rea-install/)
+- [念真怎么上网：纯静态站的搜索与读页架构](https://yenchiu.com/posts/nianzhen-web-architecture/)
+- [「科学修仙时代」：把修仙拍成村口吵架](https://yenchiu.com/posts/ai%E5%8A%A8%E7%94%BB/)
+- [刷新一下](https://yenchiu.com/posts/refresh-button/)
+<!-- BLOG-POST-LIST:END -->
+
+## GitHub
 
 <p align="center">
-  <img src="assets/images/dino.gif" alt="dino" width="480" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yen-chiu/yen-chiu/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yen-chiu/yen-chiu/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/yen-chiu/yen-chiu/output/github-contribution-grid-snake.svg" alt="贡献日历" width="100%" />
+  </picture>
 </p>
 
-## 🧰 常用工具
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=yen-chiu&theme=dark&hide_border=true&background=0D1117&ring=6366F1&fire=EC4899&stroke=A78BFA" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=yen-chiu&theme=default&hide_border=true&ring=6366F1&fire=EC4899" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yen-chiu&theme=default&hide_border=true&ring=6366F1&fire=EC4899" alt="连续贡献" width="52%" />
+  </picture>
+</p>
+
+<details>
+<summary><sub>常用工具与数据</sub></summary>
+
+<br />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,r,matlab,linux,git,latex,md,bash,vscode,mysql" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=py,r,matlab,linux,git,latex,md,bash,vscode,mysql" alt="常用工具" />
 </p>
 
 <p align="center">
@@ -47,55 +83,25 @@
   <img src="https://img.shields.io/badge/DB-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-## 🚀 精选项目
-
-- **[yenchiu.com](https://yenchiu.com)** — 个人博客：技术笔记、读书与生活。`Jekyll` `Chirpy` `GitHub Pages`
-- **[Chat](https://github.com/yen-chiu/Chat)** — 「与念真聊天中」：一个可以聊天的个人小站。`HTML` `CSS` `JavaScript`
-- **[WendellManual](https://github.com/yen-chiu/WendellManual)** — 博客使用说明与文档站。`Jekyll` `Just the Docs`
-- **[math-model](https://github.com/yen-chiu/math-model)** — Python 数学实验与建模课件、程序与习题。`Python` `Jupyter`
-
-## ✍️ 最近在写
-
-<!-- BLOG-POST-LIST:START -->
-- [刷新一下](https://yenchiu.com/posts/refresh-button/)
-- [把 72MB 视频搬进 Cloudflare R2，顺手吊销了一张泄露的证书](https://yenchiu.com/posts/r2-migration/)
-- [我把 QQ 接入 AI 助手，失败了三次](https://yenchiu.com/posts/qq-bot-postmortem/)
-- [一次真实的安全审计：我自己的写作台被 XSS 绕过了](https://yenchiu.com/posts/xss-audit/)
-<!-- BLOG-POST-LIST:END -->
-
-## 📊 GitHub 数据
-
 <p align="center">
-  <img src="https://img.shields.io/github/followers/yen-chiu?style=for-the-badge&label=Followers&color=6366f1" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/yen-chiu/yen-chiu.github.io?style=for-the-badge&label=Blog%20Stars&color=a855f7" alt="Blog stars" />
-  <img src="https://img.shields.io/github/last-commit/yen-chiu/yen-chiu.github.io?style=for-the-badge&label=Last%20Commit&color=ec4899" alt="Last commit" />
-  <img src="https://img.shields.io/github/languages/top/yen-chiu/yen-chiu.github.io?style=for-the-badge&label=Top%20Language&color=0ea5e9" alt="Top language" />
+  <img src="https://img.shields.io/github/followers/yen-chiu?style=flat-square&label=Followers&color=6366f1" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/yen-chiu/yen-chiu.github.io?style=flat-square&label=Blog%20Stars&color=a855f7" alt="Blog stars" />
+  <img src="https://img.shields.io/github/last-commit/yen-chiu/yen-chiu.github.io?style=flat-square&label=Last%20Commit&color=ec4899" alt="Last commit" />
+  <img src="https://img.shields.io/github/languages/top/yen-chiu/yen-chiu.github.io?style=flat-square&label=Top%20Language&color=0ea5e9" alt="Top language" />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yen-chiu/yen-chiu/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yen-chiu/yen-chiu/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/yen-chiu/yen-chiu/output/github-contribution-grid-snake.svg" alt="github-snake" width="100%" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=yen-chiu&theme=midnight-purple&hide_border=true&background=0D1030&ring=A855F7&fire=EC4899" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=yen-chiu&theme=default&hide_border=true&ring=6366F1&fire=EC4899" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yen-chiu&theme=default&hide_border=true" alt="Streak stats" width="62%" />
-  </picture>
-</p>
+</details>
 
 <div align="center">
-  <img src="assets/images/divider.svg" alt="" width="100%" />
+  <br />
+  <img src="assets/images/divider.svg" alt="" width="56%" />
   <sub>读书，买花，长大。 · 用 <a href="https://jekyllrb.com">Jekyll</a> + <a href="https://github.com/cotes2020/jekyll-theme-chirpy">Chirpy</a> 搭建</sub>
 </div>
 
 <!-- 资源 -->
+<!-- 头图：自制 SVG，assets/images/hero-light.svg / hero-dark.svg -->
 <!-- 图标：https://simpleicons.org/ -->
 <!-- 徽章：https://shields.io/ -->
-<!-- 打字动画：https://github.com/DenverCoder1/readme-typing-svg -->
-<!-- 贪吃蛇：https://github.com/Platane/snk -->
+<!-- 贪吃蛇：https://github.com/Platane/snk （.github/workflows/snake.yml 每天自动更新） -->
+<!-- 连续贡献：https://github.com/DenverCoder1/github-readme-streak-stats -->
 <!-- Emoji：https://emojipedia.org/ -->

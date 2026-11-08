@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" fill="none" role="img" aria-label="Wendell · 读书，买花，长大。">
+  <defs>
+    <linearGradient id="d-bg" x1="0" y1="0" x2="1280" y2="340" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0a0b10"/>
+      <stop offset="0.55" stop-color="#0d0f18"/>
+      <stop offset="1" stop-color="#121020"/>
+    </linearGradient>
+
+    <radialGradient id="d-glow-a" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#6c63ff" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#6c63ff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="d-glow-b" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#22c3aa" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#22c3aa" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="d-name" x1="72" y1="120" x2="470" y2="180" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.7" stop-color="#dcd8ff"/>
+      <stop offset="1" stop-color="#9f97ff"/>
+    </linearGradient>
+
+    <linearGradient id="d-accent" x1="72" y1="0" x2="164" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6c63ff"/>
+      <stop offset="1" stop-color="#22c3aa"/>
+    </linearGradient>
+
+    <pattern id="d-dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.15" fill="#ffffff" fill-opacity="0.055"/>
+    </pattern>
+
+    <clipPath id="d-clip">
+      <rect width="1280" height="340" rx="18"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#d-clip)">
+    <rect width="1280" height="340" fill="url(#d-bg)"/>
+    <rect width="1280" height="340" fill="url(#d-dots)"/>
+    <ellipse cx="1010" cy="70" rx="360" ry="260" fill="url(#d-glow-a)"/>
+    <ellipse cx="1210" cy="300" rx="300" ry="200" fill="url(#d-glow-b)"/>
+
+    <!-- 右侧：同心弧线，克制一点 -->
+    <g fill="none" stroke="#8f88ff" stroke-opacity="0.22">
+      <circle cx="1040" cy="170" r="58" stroke-width="1"/>
+      <circle cx="1040" cy="170" r="104" stroke-opacity="0.14" stroke-width="1"/>
+      <circle cx="1040" cy="170" r="152" stroke-opacity="0.08" stroke-width="1"/>
+    </g>
+    <g stroke="#8f88ff" stroke-opacity="0.16" stroke-width="1">
+      <path d="M1040 6v328"/>
+      <path d="M872 170h336"/>
+    </g>
+    <circle cx="1040" cy="170" r="4.5" fill="#c8c3ff"/>
+    <circle cx="1178" cy="106" r="3" fill="#22c3aa" fill-opacity="0.9"/>
+    <circle cx="918" cy="238" r="2.5" fill="#6c63ff" fill-opacity="0.9"/>
+
+    <!-- 左：名字与标语 -->
+    <text x="72" y="128" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif"
+          font-size="13" letter-spacing="5.5" fill="#7d8397">Y E N · C H I U</text>
+
+    <text x="70" y="196" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif"
+          font-size="72" font-weight="700" letter-spacing="0.5" fill="url(#d-name)">Wendell</text>
+
+    <text x="74" y="242" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif"
+          font-size="21" letter-spacing="6" fill="#b9bdd0">读书，买花，长大。</text>
+
+    <rect x="74" y="264" width="92" height="2" rx="1" fill="url(#d-accent)"/>
+
+    <text x="74" y="300" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif"
+          font-size="11.5" letter-spacing="4" fill="#666d82">DATA · SIMULATION · SMALL TOOLS</text>
+  </g>
+</svg>
