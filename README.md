@@ -41,6 +41,7 @@
 - [给 AI 装一双逆向之眼：REA 接入 DeepSeek Harness](https://yenchiu.com/posts/dsh-rea-install/)
 - [念真怎么上网：纯静态站的搜索与读页架构](https://yenchiu.com/posts/nianzhen-web-architecture/)
 - [「科学修仙时代」：把修仙拍成村口吵架](https://yenchiu.com/posts/ai%E5%8A%A8%E7%94%BB/)
+- [刷新一下](https://yenchiu.com/posts/refresh-button/)
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub
