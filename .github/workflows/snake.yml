@@ -1,0 +1,37 @@
+name: Generate snake animation
+
+# 把 README 里那张「一天一格的贡献图」变成自动更新的：
+# 每天跑一次（也可手动 workflow_dispatch），把新的 SVG 推到 output 分支，
+# README 读的是 output 分支上的文件。
+
+on:
+  schedule:
+    # UTC 00:20 == 北京时间 08:20
+    - cron: "20 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+
+permissions:
+  contents: write
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 生成蛇形贡献图
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: 推到 output 分支
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
