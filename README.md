@@ -26,17 +26,13 @@
 
 ## 做的东西
 
-**[yenchiu.com](https://yenchiu.com)** — 个人博客：技术笔记、读书与生活。
-<sub>Jekyll · Chirpy · GitHub Pages</sub>
+**[yenchiu.com](https://yenchiu.com)** — 个人博客：技术笔记、读书与生活。 <sub>Jekyll · Chirpy · GitHub Pages</sub>
 
-**[Chat](https://github.com/yen-chiu/Chat)** — 「与念真聊天中」，一个可以聊天的个人小站，也放着上面那两个网页版游戏。
-<sub>HTML · CSS · JavaScript</sub>
+**[Chat](https://github.com/yen-chiu/Chat)** — 「与念真聊天中」，一个可以聊天的个人小站，也放着上面那两个网页版游戏。 <sub>HTML · CSS · JavaScript</sub>
 
-**[WendellManual](https://github.com/yen-chiu/WendellManual)** — 博客的使用说明与文档站。
-<sub>Jekyll · Just the Docs</sub>
+**[WendellManual](https://github.com/yen-chiu/WendellManual)** — 博客的使用说明与文档站。 <sub>Jekyll · Just the Docs</sub>
 
-**[math-model](https://github.com/yen-chiu/math-model)** — Python 数学实验与建模的课件、程序与习题。
-<sub>Python · Jupyter</sub>
+**[math-model](https://github.com/yen-chiu/math-model)** — Python 数学实验与建模的课件、程序与习题。 <sub>Python · Jupyter</sub>
 
 ## 写作
 
