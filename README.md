@@ -6,9 +6,17 @@
   <img src="assets/images/hero-light.svg" alt="Wendell · 读书，买花，长大。" width="100%" />
 </picture>
 
-<br />
+<br /><br />
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1400&color=6366F1&center=true&vCenter=true&width=560&lines=%E8%AF%BB%E4%B9%A6%EF%BC%8C%E4%B9%B0%E8%8A%B1%EF%BC%8C%E9%95%BF%E5%A4%A7%E3%80%82;print(%22hello%2C%20world%22);wendell%40yenchiu%3A~%24" alt="读书，买花，长大。" /></a>
+
+<br /><br />
 
 [博客](https://yenchiu.com) &nbsp;·&nbsp; [X](https://x.com/Xiao_Bard) &nbsp;·&nbsp; [邮件](mailto:yenchiu.he@gmail.com) &nbsp;·&nbsp; [WakaTime](https://wakatime.com/@yen-chiu)
+
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=yen-chiu&label=Views&color=6366f1&style=flat-square" alt="访问量" />
 
 </div>
 
@@ -54,11 +62,38 @@
   </picture>
 </p>
 
+<table align="center" border="0">
+  <tr>
+    <td align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yen-chiu&show_icons=true&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=6366F1&text_color=C9D1D9&rank_icon=github" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=yen-chiu&show_icons=true&hide_border=true&bg_color=FFFFFF00&title_color=6366F1&icon_color=6366F1&text_color=1F2328&rank_icon=github" />
+        <img src="https://github-readme-stats.vercel.app/api?username=yen-chiu&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub 统计" width="440" />
+      </picture>
+    </td>
+    <td align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yen-chiu&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=C9D1D9" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yen-chiu&layout=compact&langs_count=6&hide_border=true&bg_color=FFFFFF00&title_color=6366F1&text_color=1F2328" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yen-chiu&layout=compact&langs_count=6&hide_border=true" alt="常用语言" width="380" />
+      </picture>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=yen-chiu&theme=dark&hide_border=true&background=0D1117&ring=6366F1&fire=EC4899&stroke=A78BFA" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=yen-chiu&theme=default&hide_border=true&ring=6366F1&fire=EC4899" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=yen-chiu&theme=default&hide_border=true&ring=6366F1&fire=EC4899" alt="连续贡献" width="52%" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=yen-chiu&bg_color=00000000&color=A78BFA&line=6366F1&point=EC4899&area=true&area_color=6366F1&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=yen-chiu&bg_color=00000000&color=1F2328&line=6366F1&point=EC4899&area=true&area_color=6366F1&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yen-chiu&bg_color=00000000&hide_border=true" alt="活动曲线" width="100%" />
   </picture>
 </p>
 
@@ -100,4 +135,8 @@
 <!-- 徽章：https://shields.io/ -->
 <!-- 贪吃蛇：https://github.com/Platane/snk （.github/workflows/snake.yml 每天自动更新） -->
 <!-- 连续贡献：https://github.com/DenverCoder1/github-readme-streak-stats -->
+<!-- 统计卡与常用语言：https://github.com/anuraghazra/github-readme-stats -->
+<!-- 活动曲线：https://github.com/Ashutosh00710/github-readme-activity-graph -->
+<!-- 打字机：https://github.com/DenverCoder1/readme-typing-svg -->
+<!-- 访客数：https://github.com/antonkomarev/github-profile-views-counter -->
 <!-- Emoji：https://emojipedia.org/ -->
