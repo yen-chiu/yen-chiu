@@ -56,7 +56,6 @@ jobs:
           config_padding: 24px, 8%
           config_animations: no
           base: header, activity, community, repositories
-          plugin_lines: yes
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_limit: 8
@@ -85,4 +84,3 @@ jobs:
           config_padding: 24px, 8%
           config_animations: no
           base: header, activity, community, repositories
-          plugin_lines: yes
