@@ -1,16 +1,10 @@
 name: Metrics
 
-# 用 lowlighter/metrics 生成一张「个人仪表盘」卡片，提交为本仓库根目录的 github-metrics.svg，
-# README 直接引用它。
-#
-# 两种模式：
-# - 仓库里配了 secret METRICS_TOKEN（带 repo 权限的个人 token）→ 完整版：语言分布 + 编码习惯
-# - 没配 → 基础版：提交 / PR / Star / 代码行数等，不显示会报错的语言与习惯插件
-#
+# �?lowlighter/metrics 生成一张「个人仪表盘」卡片，提交为本仓库根目录的 github-metrics.svg�?# README 直接引用它�?#
+# 两种模式�?# - 仓库里配�?secret METRICS_TOKEN（带 repo 权限的个�?token）→ 完整版：语言分布 + 编码习惯
+# - 没配 �?基础版：提交 / PR / Star / 代码行数等，不显示会报错的语言与习惯插�?#
 # - workflow_dispatch：想立刻刷新时手动跑
-# - schedule：每天北京时间 10:00 自动刷新一次
-# - push：本仓库有改动时顺手刷新（README / 生成的 svg 不触发，避免自己触发自己）
-on:
+# - schedule：每天北京时�?10:00 自动刷新一�?# - push：本仓库有改动时顺手刷新（README / 生成�?svg 不触发，避免自己触发自己�?on:
   schedule:
     # UTC 02:00 == 北京时间 10:00
     - cron: "0 2 * * *"
@@ -43,8 +37,7 @@ jobs:
             echo "mode=basic" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: 生成 metrics 卡片（完整版）
-        if: steps.token.outputs.mode == 'full'
+      - name: 生成 metrics 卡片（完整版�?        if: steps.token.outputs.mode == 'full'
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -53,7 +46,7 @@ jobs:
           template: classic
           config_display: large
           config_timezone: Asia/Shanghai
-          config_padding: 5%, 8%
+          config_padding: 24px, 8%
           config_animations: no
           base: header, activity, community, repositories
           plugin_lines: yes
@@ -82,7 +75,7 @@ jobs:
           template: classic
           config_display: large
           config_timezone: Asia/Shanghai
-          config_padding: 5%, 8%
+          config_padding: 24px, 8%
           config_animations: no
           base: header, activity, community, repositories
           plugin_lines: yes
