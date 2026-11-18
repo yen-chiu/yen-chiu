@@ -97,6 +97,10 @@
   </picture>
 </p>
 
+<p align="center">
+  <img src="github-metrics.svg" alt="GitHub 汇总面板" width="100%" />
+</p>
+
 <details>
 <summary><sub>常用工具与数据</sub></summary>
 
