@@ -1,10 +1,10 @@
 name: Metrics
 
-# 用 lowlighter/metrics 生成一张「个人仪表盘」卡片（贡献日历、语言分布、习惯统计等），
-# 结果推到 metrics 分支，README 读该分支上的 github-metrics.svg。
+# 用 lowlighter/metrics 生成一张「个人仪表盘」卡片（语言分布、编码习惯、贡献统计等），
+# 结果提交为本仓库根目录的 github-metrics.svg，README 直接引用它。
 # - workflow_dispatch：想立刻刷新时手动跑
 # - schedule：每天北京时间 10:00 自动刷新一次
-# - push：本仓库有改动时顺手刷新（README 单独改动不触发，避免自己触发自己）
+# - push：本仓库有改动时顺手刷新（README / 生成的 svg 不触发，避免自己触发自己）
 on:
   schedule:
     # UTC 02:00 == 北京时间 10:00
@@ -14,6 +14,7 @@ on:
     branches: [master]
     paths-ignore:
       - "README.md"
+      - "github-metrics.svg"
 
 permissions:
   contents: write
@@ -29,8 +30,8 @@ jobs:
       - name: 生成 metrics 卡片
         uses: lowlighter/metrics@latest
         with:
-          # GITHUB_TOKEN 能画出基础部分；若在仓库 Secrets 里加了 METRICS_TOKEN
-          # （classic PAT，勾选 repo + read:user），语言分布、习惯统计才完整。
+          # 语言分布、编码习惯等插件需要带 repo 权限的个人 token（仓库 secret：METRICS_TOKEN）。
+          # 没配置时退回 GITHUB_TOKEN，卡片仍能出基础面板，但语言/习惯部分会是空的。
           token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           user: yen-chiu
           filename: github-metrics.svg
@@ -39,9 +40,8 @@ jobs:
           config_timezone: Asia/Shanghai
           config_padding: 5%, 8%
           config_animations: no
-          base: header, activity, community, repositories, metadata
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          base: header, activity, community, repositories
+          plugin_lines: yes
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_limit: 8
