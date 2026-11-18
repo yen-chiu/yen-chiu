@@ -51,9 +51,9 @@ jobs:
           user: yen-chiu
           filename: github-metrics.svg
           template: classic
-          config_display: large
+          config_display: regular
           config_timezone: Asia/Shanghai
-          config_padding: 24px, 8%
+          config_padding: 0, 8%
           config_animations: no
           base: header, activity, community, repositories
           plugin_languages: yes
@@ -79,9 +79,9 @@ jobs:
           user: yen-chiu
           filename: github-metrics.svg
           template: classic
-          config_display: large
+          config_display: regular
           config_timezone: Asia/Shanghai
-          config_padding: 24px, 8%
+          config_padding: 0, 8%
           config_animations: no
           # 基础版只保留两列：四列时卡片高度会被算短、最末一行被裁掉
           base: header, activity, community
