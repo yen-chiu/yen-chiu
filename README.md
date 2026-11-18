@@ -12,7 +12,7 @@
 
 <br /><br />
 
-[博客](https://yenchiu.com) &nbsp;·&nbsp; [X](https://x.com/Xiao_Bard) &nbsp;·&nbsp; [邮件](mailto:yenchiu.he@gmail.com) &nbsp;·&nbsp; [WakaTime](https://wakatime.com/@yen-chiu)
+[博客](https://yenchiu.com) &nbsp;·&nbsp; [邮件](mailto:yenchiu.he@gmail.com) &nbsp;·&nbsp; [仓库](https://github.com/yen-chiu?tab=repositories)
 
 <br /><br />
 

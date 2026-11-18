@@ -1,0 +1,58 @@
+name: Metrics
+
+# 用 lowlighter/metrics 生成一张「个人仪表盘」卡片（贡献日历、语言分布、习惯统计等），
+# 结果推到 metrics 分支，README 读该分支上的 github-metrics.svg。
+# - workflow_dispatch：想立刻刷新时手动跑
+# - schedule：每天北京时间 10:00 自动刷新一次
+# - push：本仓库有改动时顺手刷新（README 单独改动不触发，避免自己触发自己）
+on:
+  schedule:
+    # UTC 02:00 == 北京时间 10:00
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths-ignore:
+      - "README.md"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: metrics
+  cancel-in-progress: false
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 生成 metrics 卡片
+        uses: lowlighter/metrics@latest
+        with:
+          # GITHUB_TOKEN 能画出基础部分；若在仓库 Secrets 里加了 METRICS_TOKEN
+          # （classic PAT，勾选 repo + read:user），语言分布、习惯统计才完整。
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          user: yen-chiu
+          filename: github-metrics.svg
+          template: classic
+          config_display: large
+          config_timezone: Asia/Shanghai
+          config_padding: 5%, 8%
+          config_animations: no
+          base: header, activity, community, repositories, metadata
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_threshold: 0%
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_trim: yes
