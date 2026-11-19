@@ -62,6 +62,14 @@
   </picture>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-green.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg" />
+    <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D 贡献图" width="100%" />
+  </picture>
+</p>
+
 <table align="center" border="0">
   <tr>
     <td align="center">

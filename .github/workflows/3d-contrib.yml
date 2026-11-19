@@ -1,0 +1,62 @@
+name: GitHub-Profile-3D-Contrib
+
+# 用 yoshi389111/github-profile-3d-contrib 生成本仓库 profile-3d-contrib/ 下的 10 张 3D 贡献图
+# （gitblock / green / green-animate / night-green / night-rainbow / night-view / season / season-animate /
+#   south-season / south-season-animate），README 直接引用其中明暗各一张。
+#
+# - schedule：每天北京时间 02:00 更新（UTC 18:00）
+# - workflow_dispatch：想立刻刷新时手动跑
+# - push：本仓库有改动时顺手更新（README / 生成的图不触发，避免自己触发自己）
+on:
+  schedule:
+    # UTC 18:00 == 北京时间次日 02:00
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths-ignore:
+      - "README.md"
+      - "profile-3d-contrib/**"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: 3d-contrib
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: 生成 3D 贡献图
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+
+      - name: 生成 3D 贡献图
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: 提交更新
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-3d-contrib
+          if git diff --cached --quiet; then
+            echo "3D 贡献图没有变化，跳过提交"
+            exit 0
+          fi
+          git commit -m "chore: 更新 3D 贡献图"
+          # 其它工作流可能同时推了 master，先变基再推，失败重试几次
+          for i in 1 2 3; do
+            git pull --rebase --autostash origin master || true
+            if git push; then
+              echo "已推送"
+              exit 0
+            fi
+            sleep 5
+          done
+          echo "推送失败" >&2
+          exit 1
