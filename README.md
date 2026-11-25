@@ -107,7 +107,7 @@
 </p>
 
 <p align="center">
-  <img src="github-metrics.svg" alt="GitHub 汇总面板" width="100%" />
+  <img src="https://raw.githubusercontent.com/yen-chiu/yen-chiu/master/github-metrics.svg?v=20261126" alt="GitHub 汇总面板" width="100%" />
 </p>
 
 <details>
