@@ -53,7 +53,8 @@ jobs:
           template: classic
           config_display: large
           config_timezone: Asia/Shanghai
-          config_padding: 0, 8%
+          # SVG 外部渲染的字体度量可能更高，预留固定像素与比例留白以防底部裁切。
+          config_padding: 0, 24 + 15%
           config_animations: no
           base: header, activity, community, repositories
           plugin_languages: yes
@@ -81,6 +82,6 @@ jobs:
           template: classic
           config_display: large
           config_timezone: Asia/Shanghai
-          config_padding: 0, 8%
+          config_padding: 0, 24 + 15%
           config_animations: no
           base: header, activity, community, repositories
