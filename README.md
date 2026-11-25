@@ -106,10 +106,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Git 笔记：Squash Merge 与三种 PR 合并方式](https://yenchiu.com/blog/git-squash-merge)
-- [Markdown 排版实验室：Vesper 显示效果测试](https://yenchiu.com/blog/markdown)
 - [网址末尾那个斜杠，到底要不要？](https://yenchiu.com/blog/trailing-slash-301)
 - [把《异次元通讯·次元复苏》搬进浏览器](https://yenchiu.com/blog/miko-web)
 - [给 AI 装一双逆向之眼：REA 接入 DeepSeek Harness](https://yenchiu.com/blog/dsh-rea-install)
+- [念真怎么上网：纯静态站的搜索与读页架构](https://yenchiu.com/blog/nianzhen-web-architecture)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
