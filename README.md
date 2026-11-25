@@ -42,7 +42,6 @@
 
 **[《余白》](https://yenchiu.com/journal/)** — 为散文、随笔和诗留一处安放之地。
 
-**[math-model](https://github.com/yen-chiu/math-model)** — Python 数学实验与建模的课件、程序与习题。 <sub>Python · Jupyter</sub>
 
 ## 写作
 
