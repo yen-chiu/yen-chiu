@@ -33,7 +33,7 @@ jobs:
         # 用固定版本号而不是 @master：第三方 action 的 master 随时会变
         uses: gautamkrishnar/blog-post-workflow@1.9.7
         with:
-          feed_list: 'https://yenchiu.com/feed.xml'
+          feed_list: 'https://yenchiu.com/rss.xml'
           max_post_count: '5'
           commit_message: 'chore: 同步博客最新文章'
           retry_count: '3'

@@ -28,28 +28,30 @@
 
 ## 现在
 
-- 给博客做减法，维护写作台和几件自动化小工具
-- 把两个老游戏搬进自己的小站——[异次元通讯](https://yenchiu.com/chat/play.html?a=miko) 与 [生命线](https://yenchiu.com/chat/play.html?a=lifeline)，收进同一个手机抽屉
+- 维护 Vesper 博客、Folio 文档库和 Echora 聊天空间，记录代码、阅读与生活
+- 把两个老游戏搬进自己的小站——[异次元通讯](https://yenchiu.com/echora/play.html?a=miko) 与 [生命线](https://yenchiu.com/echora/play.html?a=lifeline)，收进同一个手机抽屉
 - 现居长沙
 
 ## 做的东西
 
-**[yenchiu.com](https://yenchiu.com)** — 个人博客：技术笔记、读书与生活。 <sub>Jekyll · Chirpy · GitHub Pages</sub>
+**[Vesper · yenchiu.com](https://yenchiu.com)** — 个人网站与博客：技术实践、阅读笔记和生活片段。 <sub>Astro · Vesper · GitHub Pages</sub>
 
-**[Chat](https://github.com/yen-chiu/Chat)** — 「与念真聊天中」，一个可以聊天的个人小站，也放着上面那两个网页版游戏。 <sub>HTML · CSS · JavaScript</sub>
+**[Echora](https://yenchiu.com/echora/)** — 与念真聊天，也收藏互动故事和两个网页版老游戏。 [源码](https://github.com/yen-chiu/echora) <sub>HTML · CSS · JavaScript</sub>
 
-**[WendellManual](https://github.com/yen-chiu/WendellManual)** — 博客的使用说明与文档站。 <sub>Jekyll · Just the Docs</sub>
+**[Folio](https://yenchiu.com/folio/)** — 建站笔记、工具备忘与知识整理，从 WendellManual 迁移而来。 [源码](https://github.com/yen-chiu/folio) <sub>Astro · Starlight</sub>
+
+**[《余白》](https://yenchiu.com/journal/)** — 为散文、随笔和诗留一处安放之地。
 
 **[math-model](https://github.com/yen-chiu/math-model)** — Python 数学实验与建模的课件、程序与习题。 <sub>Python · Jupyter</sub>
 
 ## 写作
 
 <!-- BLOG-POST-LIST:START -->
-- [把《异次元通讯·次元复苏》搬进浏览器](https://yenchiu.com/posts/miko-web/)
-- [给 AI 装一双逆向之眼：REA 接入 DeepSeek Harness](https://yenchiu.com/posts/dsh-rea-install/)
-- [念真怎么上网：纯静态站的搜索与读页架构](https://yenchiu.com/posts/nianzhen-web-architecture/)
-- [「科学修仙时代」：把修仙拍成村口吵架](https://yenchiu.com/posts/ai%E5%8A%A8%E7%94%BB/)
-- [刷新一下](https://yenchiu.com/posts/refresh-button/)
+- [Git 笔记：Squash Merge 与三种 PR 合并方式](https://yenchiu.com/blog/git-squash-merge)
+- [Markdown 排版实验室：Vesper 显示效果测试](https://yenchiu.com/blog/markdown)
+- [网址末尾那个斜杠，到底要不要？](https://yenchiu.com/blog/trailing-slash-301)
+- [把《异次元通讯·次元复苏》搬进浏览器](https://yenchiu.com/blog/miko-web)
+- [给 AI 装一双逆向之眼：REA 接入 DeepSeek Harness](https://yenchiu.com/blog/dsh-rea-install)
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub
@@ -121,7 +123,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Tools-Jekyll-CC0000?style=flat-square&logo=jekyll&logoColor=white" alt="Jekyll" />
+  <img src="https://img.shields.io/badge/Tools-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro" />
   <img src="https://img.shields.io/badge/Cloud-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
   <img src="https://img.shields.io/badge/DB-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
@@ -138,7 +140,7 @@
 <div align="center">
   <br />
   <img src="assets/images/divider.svg" alt="" width="56%" />
-  <sub>读书，买花，长大。 · 用 <a href="https://jekyllrb.com">Jekyll</a> + <a href="https://github.com/cotes2020/jekyll-theme-chirpy">Chirpy</a> 搭建</sub>
+  <sub>读书，买花，长大。 · 博客使用 <a href="https://astro.build">Astro</a> + <a href="https://github.com/yen-chiu/yen-chiu.github.io">Vesper 暮星</a></sub>
 </div>
 
 <!-- 资源 -->
