@@ -20,30 +20,89 @@
 
 </div>
 
-## 关于
+<br />
 
-嗨，我是 **Wendell**。业余时间写点代码，也爱摄影、读书与旅行。
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/images/editorial/about-dark.svg" />
+  <img src="assets/images/editorial/about-light.svg" alt="关于 · A few words." width="540" />
+</picture>
 
-平时主要用 **Python / R / MATLAB** 做数据分析与建模仿真，也折腾 **Linux、博客和自动化小工具**。相信「记录本身就是一种整理」，于是有了这个长期维护的[个人博客](https://yenchiu.com)。
+我是 Wendell。业余时间写点代码，也爱摄影、读书与旅行。
 
-## 现在
+用 Python、R 与 MATLAB 做数据分析和建模仿真，也折腾 Linux、博客和自动化小工具。代码之外，把读过的书、走过的地方与生活里的片段，慢慢写进[个人博客](https://yenchiu.com)。
 
-- 维护 Vesper 博客、Folio 文档库和 Echora 聊天空间，记录代码、阅读与生活
-- 把两个老游戏搬进自己的小站——[异次元通讯](https://yenchiu.com/echora/play.html?a=miko) 与 [生命线](https://yenchiu.com/echora/play.html?a=lifeline)，收进同一个手机抽屉
-- 现居长沙
+> *记录本身，就是一种整理。*
 
-## 做的东西
+<br />
 
-**[Vesper · yenchiu.com](https://yenchiu.com)** — 个人网站与博客：技术实践、阅读笔记和生活片段。 <sub>Astro · Vesper · GitHub Pages</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/images/editorial/now-dark.svg" />
+  <img src="assets/images/editorial/now-light.svg" alt="近况 · Life, lately." width="540" />
+</picture>
 
-**[Echora](https://yenchiu.com/echora/)** — 与念真聊天，也收藏互动故事和两个网页版老游戏。 [源码](https://github.com/yen-chiu/echora) <sub>HTML · CSS · JavaScript</sub>
+<sub>ON THE DESK / 案头</sub>
 
-**[Folio](https://yenchiu.com/folio/)** — 建站笔记、工具备忘与知识整理，从 WendellManual 迁移而来。 [源码](https://github.com/yen-chiu/folio) <sub>Astro · Starlight</sub>
+维护 Vesper 博客、Folio 文档库与 Echora 聊天空间，继续整理代码、阅读与生活。
 
-**[《余白》](https://yenchiu.com/journal/)** — 为散文、随笔和诗留一处安放之地。
+<sub>AFTER HOURS / 闲时</sub>
 
+把[异次元通讯](https://yenchiu.com/echora/play.html?a=miko)与[生命线](https://yenchiu.com/echora/play.html?a=lifeline)搬进浏览器，收在同一个手机抽屉里，让旧故事有个新入口。
 
-## 写作
+<sub>BASED IN / 长沙</sub>
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/images/editorial/projects-dark.svg" />
+  <img src="assets/images/editorial/projects-light.svg" alt="作品 · Made with care." width="540" />
+</picture>
+
+<sub>PERSONAL WEBSITE / 个人网站</sub>
+
+### [Vesper 暮星](https://yenchiu.com)
+
+技术实践、阅读笔记与生活片段。一个长期维护，也不断做减法的个人网站。
+
+<sub>Astro · Vesper · GitHub Pages &nbsp; / &nbsp; [源码 ↗](https://github.com/yen-chiu/yen-chiu.github.io)</sub>
+
+<br />
+
+<sub>CONVERSATION & STORIES / 对话与故事</sub>
+
+### [Echora](https://yenchiu.com/echora/)
+
+与念真聊天，也收藏互动故事和两个网页版老游戏。
+
+<sub>HTML · CSS · JavaScript &nbsp; / &nbsp; [源码 ↗](https://github.com/yen-chiu/echora)</sub>
+
+<br />
+
+<sub>NOTES & REFERENCES / 笔记与资料</sub>
+
+### [Folio](https://yenchiu.com/folio/)
+
+建站笔记、工具备忘与知识整理。从 WendellManual 迁移而来，留给下次需要翻阅的时候。
+
+<sub>Astro · Starlight &nbsp; / &nbsp; [源码 ↗](https://github.com/yen-chiu/folio)</sub>
+
+<br />
+
+<sub>LITERARY JOURNAL / 文学期刊</sub>
+
+### [余白](https://yenchiu.com/journal/)
+
+为散文、随笔与诗，留一处安放之地。
+
+<sub>读书与写作 &nbsp; / &nbsp; [阅读《余白》 ↗](https://yenchiu.com/journal/)</sub>
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/images/editorial/writing-dark.svg" />
+  <img src="assets/images/editorial/writing-light.svg" alt="写作 · Words that remain." width="540" />
+</picture>
+
+<sub>RECENT ENTRIES / 最近的五篇记录</sub>
 
 <!-- BLOG-POST-LIST:START -->
 - [Git 笔记：Squash Merge 与三种 PR 合并方式](https://yenchiu.com/blog/git-squash-merge)
@@ -53,7 +112,13 @@
 - [给 AI 装一双逆向之眼：REA 接入 DeepSeek Harness](https://yenchiu.com/blog/dsh-rea-install)
 <!-- BLOG-POST-LIST:END -->
 
-## GitHub
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/images/editorial/activity-dark.svg" />
+  <img src="assets/images/editorial/activity-light.svg" alt="日常 · The working notes." width="540" />
+</picture>
+
 
 <p align="center">
   <picture>
